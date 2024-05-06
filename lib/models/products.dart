@@ -13,7 +13,7 @@ class Product {
 List<Product> pro = [
   Product(
       id: 1,
-      price: 100,
+      price: 10002,
       titel: 'airprods',
       subtitle: 'new air pods',
       description: 'very new one',
